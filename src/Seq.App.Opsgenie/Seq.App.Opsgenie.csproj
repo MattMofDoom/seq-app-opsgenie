@@ -24,7 +24,7 @@
   <ItemGroup>
     <PackageReference Include="Handlebars.Net" Version="2.0.9" />
     <PackageReference Include="Seq.Apps" Version="5.1.0" />
-    <PackageReference Include="system.text.json" Version="5.0.2" />
+    <PackageReference Include="system.text.json" Version="8.0.4" />
   </ItemGroup>
 
   <ItemGroup>
